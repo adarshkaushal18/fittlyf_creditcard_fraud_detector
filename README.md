@@ -2,6 +2,8 @@
 
 This project focuses on detecting fraudulent credit card transactions using the Isolation Forest machine learning algorithm. The application is built using Streamlit, providing an interactive web-based interface for users to upload transaction data, detect anomalies, and visualize results.
 
+Link: https://fittlyfcreditcardfrauddetector.streamlit.app/
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
